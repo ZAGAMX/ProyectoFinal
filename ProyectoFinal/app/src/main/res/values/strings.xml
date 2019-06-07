@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UABCS</string>
+    <string name="title_home">Areas</string>
+    <string name="title_dashboard">Directorio</string>
+    <string name="title_notifications">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dev">Cantu Moreno Moises, Sinahi Giron Lopez</string>
+    <string name="nombre">Nombre</string>
+</resources>
